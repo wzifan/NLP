@@ -3,7 +3,7 @@
 
 
 - default_dict.txt为jieba的默认词典的复制，可通过`print(jieba.get_dict_file())`查看其位置。
-- 请通过`git lfs clone`克隆本项目。
+- 请使用`git lfs clone`克隆本项目。
 
 
 ##### 关于NLP/隐马尔可夫/HMM.py的一些解释
